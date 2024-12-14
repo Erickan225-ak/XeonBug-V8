@@ -32,7 +32,7 @@ global.wm = "Global Bot"
 global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = ['','!','.','#','&'🏮'⚔️']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
