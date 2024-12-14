@@ -10,13 +10,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
+global.ownernomer = "2250585838075"
 global.ownername = "Qasim Ali"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
 
-global.ownernumber = '923444844060'  //creator number
+global.ownernumber = '2250585838075'  //creator number
 global.ownername = 'Qasim Ali' //owner name
 global.botname = 'XeonBug-V8' //name of the bot
 
@@ -32,7 +32,7 @@ global.wm = "Global Bot"
 global.link = 'https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07'
 
 //custom prefix
-global.prefa = ['','!','.','#','&']
+global.prefa = [''⚔️'!','.','🏮','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
